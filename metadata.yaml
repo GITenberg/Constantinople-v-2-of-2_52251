@@ -1,0 +1,37 @@
+_repo: Constantinople-v-2-of-2_52251
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Lansdale, Maria Hornor
+    alias: Lansdale, M. H. (Maria Hornor)
+    birthdate: 1860
+    gutenberg_agent_id: '40257'
+    url: http://www.gutenberg.org/2009/agents/40257
+creator:
+  author:
+    agent_name: De Amicis, Edmondo
+    aliases:
+    - Amicis, Edmundo de
+    - Amicis, Edmondo de
+    - Amichis, Edmondo de
+    birthdate: 1846
+    deathdate: 1908
+    gutenberg_agent_id: '7650'
+    url: http://www.gutenberg.org/2009/agents/7650
+    wikipedia: http://it.wikipedia.org/wiki/Edmondo_De_Amicis
+description: ''
+gutenberg_issued: '2016-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52251'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DR'
+- !lcsh 'Istanbul (Turkey) -- Description and travel'
+- !lcsh 'De Amicis, Edmondo, 1846-1908 -- Travel -- Turkey -- Istanbul'
+- GITenberg
+title: Constantinople, v. 2 (of 2)
+url: http://www.gutenberg.org/ebooks/52251
